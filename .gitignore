@@ -1,0 +1,10 @@
+*.mkv
+*.h264
+/libs
+obj
+*.app
+*/bin/*
+!*/bin/data
+*._*
+bin/RPiCameraRemoteServer
+bin/data/*.mp4
